@@ -1,0 +1,9 @@
+2021-05-05 15:25:29,366: INFO : PytestDemo.test_loggingDemo: information message
+2021-05-05 15:25:29,366: WARNING : PytestDemo.test_loggingDemo: Warings
+2021-05-05 15:25:29,367: ERROR : PytestDemo.test_loggingDemo: A major error is happen
+2021-05-05 15:25:29,367: CRITICAL : PytestDemo.test_loggingDemo: critical issue
+2021-05-05 15:27:23,675: DEBUG : PytestDemo.test_loggingDemo: debug statement
+2021-05-05 15:27:23,675: INFO : PytestDemo.test_loggingDemo: information message
+2021-05-05 15:27:23,675: WARNING : PytestDemo.test_loggingDemo: Warings
+2021-05-05 15:27:23,675: ERROR : PytestDemo.test_loggingDemo: A major error is happen
+2021-05-05 15:27:23,675: CRITICAL : PytestDemo.test_loggingDemo: critical issue
